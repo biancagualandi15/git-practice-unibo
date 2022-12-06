@@ -1,6 +1,7 @@
 # Overal University Policy
 
-## Policy for FICLIT
+## Policy for humanities
+Researchers often need help to define data. Data is "all research output that are not publications" (ALLEA report on e-humanities).
 
 ## Policy for biomed
 
