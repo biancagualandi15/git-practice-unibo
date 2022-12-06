@@ -1,7 +1,7 @@
 # Overal University Policy
 
-## Policy for FICLIT
-
+## Policy for Humanities
+I will try again to see if I can send Shalini a pull request.
 ## Policy for biomed
 
 ## Policy for economics and Statistics
